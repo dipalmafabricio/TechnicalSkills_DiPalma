@@ -14,7 +14,7 @@ Se construye un tablero interactivo con datos del **Banco Mundial**, utilizando 
 ## 🛒 2. Modelado de Negocio para Ecommerce
 
 Se simula un modelo de negocio basado en un ecommerce.  
-Mediante **consultas SQL** y **stored procedure**, se resuelven distintos requerimientos del negocio, con foco en la extracción y análisis de información clave.
+Mediante **consultas SQL** y **stored procedures**, se resuelven distintos requerimientos del negocio, con foco en la extracción y análisis de información clave.
 
 ---
 
@@ -25,6 +25,6 @@ Se realiza una consulta a una **API externa** para obtener la cotización del re
 - 💵 Dólar estadounidense (USD)
 - 💶 Euro (EUR)
 
-Esta sección aplica conceptos de integración y consumo de servicios externos.
+Esta sección aplica conceptos de integración, consumo de servicios externos y normalización de datos . 
 
 ---
