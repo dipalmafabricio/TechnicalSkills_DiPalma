@@ -1,10 +1,10 @@
 # Compilado de Habilidades Técnicas
 
-Este repositorio presenta un recorrido por **tres niveles de habilidades técnicas**, aplicadas a distintos contextos de análisis y desarrollo de soluciones.
+Este repositorio presenta un recorrido por **tres niveles de habilidades** (Analytics, SQL y API para consultas), aplicadas a distintos contextos de análisis y desarrollo de soluciones basadas en datos.
 
 ---
 
-## 📊 1. Análisis de datos macroeconómicos
+## 📊 1. Análisis de datos macroeconómicos [Analytics]
 
 Se construye un tablero interactivo en Power BI utilizando datos del **Banco Mundial**, extraídos del informe sobre Tecnologías de la Información y la Comunicación (TIC). 
 
@@ -27,7 +27,7 @@ Estos factores combinados contribuyen significativamente a la elevada penetraci�
 
 ---
 
-## 🛒 2. Modelado de Negocio para Ecommerce
+## 🛒 2. Modelado de Negocio para Ecommerce [SQL]
 
 Se simula un modelo de da tos para un ecommerce.  
 Mediante **consultas SQL** y **stored procedures**, se resuelven distintos requerimientos del negocio, con foco en la extracción y análisis de información clave.
@@ -35,7 +35,7 @@ Mediante **consultas SQL** y **stored procedures**, se resuelven distintos reque
 
 ---
 
-## 🌐 3. Integración con APIs Externas
+## 🌐 3. Integración con APIs Externas [API]
 
 Se realiza una consulta a una **API externa** para obtener la cotización del real brasileño frente a:
 - 💰 Bitcoin (BTC)
