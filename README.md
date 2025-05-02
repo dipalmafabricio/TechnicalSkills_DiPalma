@@ -6,8 +6,23 @@ Este repositorio presenta un recorrido por **tres niveles de habilidades técnic
 
 ## 📊 1. Análisis de datos macroeconómicos
 
-Se construye un tablero interactivo con datos del **Banco Mundial**, utilizando su informe sobre Tecnologías de la Información y la Comunicación (TIC).  
-**Objetivo:** Analizar la evolución del uso de internet en Argentina y comprender las causas detrás de su crecimiento. A su vez se hace una comparación con Brasil, México y el resto de américa Latina.
+Se construye un tablero interactivo utilizando datos del **Banco Mundial**, extraídos del informe sobre Tecnologías de la Información y la Comunicación (TIC).  
+**Objetivo:** Analizar la evolución del uso de internet en Argentina y compararlo con Brasil, México y otros países de América Latina.
+
+### 📌 Conclusiones
+
+A partir del análisis realizado, se observa que **Argentina presenta una alta adopción de internet**. En 2023, el **89% de la población utilizó internet al menos una vez en los últimos tres meses**.
+
+Este fenómeno puede explicarse, en parte, por una mayor **conectividad general**, tanto en hogares con acceso a internet fijo como por el crecimiento de la **cobertura de datos móviles** y el aumento en las **suscripciones a servicios móviles**.
+
+En comparación con países como **Brasil** y **México**, Argentina se posiciona como el país con **mayor nivel de uso de internet** en la región. Además, muestra ventajas en los siguientes indicadores:
+
+- 🛰️ **Competencia en el mercado de servicios de internet**  
+- 🏠 **Porcentaje de hogares con acceso a internet y computadoras**  
+- 💵 **Costo de los datos móviles**  
+- 📱 **Cantidad de suscripciones móviles**
+
+Estos factores combinados contribuyen significativamente a la elevada penetración y uso de internet en la población argentina.
 
 ---
 
