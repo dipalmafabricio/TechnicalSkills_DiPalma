@@ -8,7 +8,7 @@ Este repositorio presenta un recorrido por **tres niveles de habilidades** (Anal
 
 Se construye un tablero interactivo en Power BI utilizando datos del **Banco Mundial**, extraídos del informe sobre Tecnologías de la Información y la Comunicación (TIC). 
 
-**Objetivo:** Analizar la evolución del uso de internet en Argentina y compararlo con Brasil, México y otros países de América Latina.
+**Objetivo:** Analizar la evolución y explicar el uso de internet en Argentina y compararlo con Brasil, México y otros países de América Latina.
 
 ### 📌 Conclusiones
 
