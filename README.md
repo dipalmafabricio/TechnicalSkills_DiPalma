@@ -1,4 +1,4 @@
-# Compilado de Habilidades Técnicas
+# Compilado de habilidades 
 
 Este repositorio presenta un recorrido por **tres niveles de habilidades** (Analytics, SQL y API para consultas), aplicadas a distintos contextos de análisis y desarrollo de soluciones basadas en datos.
 
