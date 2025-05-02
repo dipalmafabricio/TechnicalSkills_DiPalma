@@ -25,6 +25,8 @@ Se realiza una consulta a una **API externa** para obtener la cotización del re
 - 💵 Dólar estadounidense (USD)
 - 💶 Euro (EUR)
 
-Esta sección aplica conceptos de integración, consumo de servicios externos y normalización de datos . 
+Esta sección aplica conceptos de integración, consumo de servicios externos y normalización de datos. 
+Se utiliza el lenguaje de programación Python, junto con las librerías requests y pandas, para consultar y normalizar los datos, respectivamente.
+El archivo JSON obtenido se transforma para generar una salida estructurada que detalla: la moneda de origen, la moneda de destino, el valor de venta, el valor de compra y la hora de la cotización.
 
 ---
