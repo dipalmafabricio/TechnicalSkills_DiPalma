@@ -6,7 +6,8 @@ Este repositorio presenta un recorrido por **tres niveles de habilidades técnic
 
 ## 📊 1. Análisis de datos macroeconómicos
 
-Se construye un tablero interactivo en Power BI utilizando datos del **Banco Mundial**, extraídos del informe sobre Tecnologías de la Información y la Comunicación (TIC).  
+Se construye un tablero interactivo en Power BI utilizando datos del **Banco Mundial**, extraídos del informe sobre Tecnologías de la Información y la Comunicación (TIC). 
+
 **Objetivo:** Analizar la evolución del uso de internet en Argentina y compararlo con Brasil, México y otros países de América Latina.
 
 ### 📌 Conclusiones
