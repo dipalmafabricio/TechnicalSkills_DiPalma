@@ -29,8 +29,9 @@ Estos factores combinados contribuyen significativamente a la elevada penetraci�
 
 ## 🛒 2. Modelado de Negocio para Ecommerce
 
-Se simula un modelo de negocio basado en un ecommerce.  
+Se simula un modelo de da tos para un ecommerce.  
 Mediante **consultas SQL** y **stored procedures**, se resuelven distintos requerimientos del negocio, con foco en la extracción y análisis de información clave.
+
 
 ---
 
